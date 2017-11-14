@@ -18,8 +18,7 @@
 |MATEMÁTICAS|departamentomatem@iesrioarba.es|
 |MÚSICA|departamentomusica@iesrioarba.es|
 |ORIENTACIÓN|departamentoorienta@iesrioarba.es|
-|EDUCACIÓN PLÁSTICA Y VISUAL|
-departamentoplastica@iesrioarba.es|
+|EDUCACIÓN PLÁSTICA Y VISUAL|departamentoplastica@iesrioarba.es|
 |RELIGIÓN|departamentoreligion@iesrioarba.es|
 |TECNOLOGÍA|departamentotecnologia@iesrioarba.es|
 |JEFES DE DEPARTAMENTO 17-18|jefesdepartamento17-18@iesrioarba.es|
