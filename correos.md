@@ -1,7 +1,7 @@
 <!-- TITLE: Correos -->
 <!-- SUBTITLE: A quick summary of Correos -->
 
-# **[Correos](/Correos)**
+# Correos
 |GRUPOS ESCOLARES (DE ALUMNOS)|Correos|
 |:----------------------------------------------------------|-----------:|
 |LITUNIV | lituniv@iesrioarba.es|
