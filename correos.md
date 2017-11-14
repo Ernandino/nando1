@@ -4,7 +4,6 @@
 # Correos
 |GRUPOS ESCOLARES (DE ALUMNOS)|Correos|
 |:----------------------------------------------------------|-----------:|
-
 |LITUNIV | lituniv@iesrioarba.es|
 |1ºB| alumnado1b@iesrioarba.es|
 |1º A| alumnos1a@iesrioarba.es|
