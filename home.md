@@ -4,5 +4,5 @@
 # Inicio
 # **[Correos](/Correos)**
 # **[Departamentos](/Departamentos)**
-# **[Nuestro Centro](/Localización y contacto)**
+# **[NuestroCentro](/Localizaciónycontacto)**
 
