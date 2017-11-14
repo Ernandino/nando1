@@ -1,6 +1,5 @@
 <!-- TITLE: Localizacion Y Contacto -->
 
-# Localización y Contacto
 Instituto de Enseñanza Secundaria Río Arba
 Avenida  del Pilar S/N
 50660 Tauste (Zaragoza)
