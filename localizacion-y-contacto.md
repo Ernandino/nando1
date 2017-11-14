@@ -1,5 +1,4 @@
 <!-- TITLE: Localizacion Y Contacto -->
-<!-- SUBTITLE: A quick summary of Localizacion Y Contacto -->
 
 # Localización y Contacto
 Instituto de Enseñanza Secundaria Río Arba
