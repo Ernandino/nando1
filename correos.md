@@ -1,5 +1,5 @@
 <!-- TITLE: Correos -->
-<!-- SUBTITLE: A quick summary of Correos -->
+<!-- SUBTITLE: Grupos de Clase -->
 
 # Correos
 |GRUPOS ESCOLARES (DE ALUMNOS)|Correos|
