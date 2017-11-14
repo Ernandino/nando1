@@ -1,5 +1,5 @@
 <!-- TITLE: Departamentos -->
-<!-- SUBTITLE: A quick summary of Departamentos -->
+<!-- SUBTITLE: Correo de cada uno de los Departamentos -->
 
 # Departamentos
 |Departamentos|Correos|
