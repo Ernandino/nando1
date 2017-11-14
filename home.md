@@ -5,4 +5,4 @@
 # **[Correos](/Correos)**
 # **[Departamentos](/Departamentos)**
 
-# **[Nuestro Centro](/Localización y Contacto)**(/Instalaciones)**(/Video Promocional)**
+# **[Nuestro Centro](/Localización y Contacto)**
